@@ -1,0 +1,14 @@
+OrcInvadersClient/Temp/
+OrcInvadersClient/Library/
+OrcInvadersClient/Obj/
+OrcInvadersClient/.vs/
+ 
+*.suo
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.DS_store
+Thumbs.db.meta
+*.pfx
